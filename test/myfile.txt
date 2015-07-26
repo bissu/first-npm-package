@@ -1,0 +1,3 @@
+Esse arquivo é um arquivo de teste.
+
+Ele deve ser totalmente alterado para caixa alta.

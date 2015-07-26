@@ -1,0 +1,21 @@
+{
+  "author" : "Marcelo Bissuh",
+  "name": "uppercaseme",
+  "description" : "Convert text files to uppercase in Bissuh style.",
+  "version": "0.0.1",
+  "repository" : {
+    "url" : "https://github.com/bissu/first-npm-package"
+  },
+  "main" : "./lib/uppercaseme",
+  "keywords" : [
+    "upper",
+    "case",
+    "file"
+  ],
+  "bin" : {
+    "uppercaseme": "./bin/uppercaseme"
+  },
+  "engines" : {
+    "node" : "*"
+  }
+}
